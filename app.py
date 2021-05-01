@@ -126,7 +126,7 @@ def hello():
 
 
 
-        return resp_json['analyzeResult']['documentResults'][0]['fields']
+        return d
 
 
 if __name__ == "__main__":
